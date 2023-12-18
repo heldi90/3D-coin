@@ -32,6 +32,7 @@ public class PemunculanKoin : MonoBehaviour
 
     void Update()
     {
+
         if (cor <= 0 && timer.hapus == true)
         {
             timer.hancurkan("coin");
