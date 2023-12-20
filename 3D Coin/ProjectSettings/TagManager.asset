@@ -7,6 +7,7 @@ TagManager:
   - coin
   - ui_coin
   - music
+  - pengguna
   layers:
   - Default
   - TransparentFX
