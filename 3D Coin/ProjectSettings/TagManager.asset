@@ -8,6 +8,9 @@ TagManager:
   - ui_coin
   - music
   - pengguna
+  - enemy
+  - FxTemporaire
+  - grounde
   layers:
   - Default
   - TransparentFX
